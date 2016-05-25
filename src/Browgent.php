@@ -2,6 +2,7 @@
 
 namespace Browgent;
 
-class Browgent {
+class Browgent
+{
 
 }
