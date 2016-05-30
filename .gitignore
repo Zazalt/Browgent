@@ -2,3 +2,4 @@
 *.log
 */Thumbs.db
 *pull-commit-push.cmd
+*pull-commit-push*.cmd
