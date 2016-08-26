@@ -1,6 +1,6 @@
 # Browgent
 
-# Usage
+## Usage
 ```php
 use Browgent;
 
